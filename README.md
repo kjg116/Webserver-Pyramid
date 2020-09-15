@@ -85,7 +85,7 @@ Response:
 ```
 
 ## Assumptions
-1. In order for a word to be considered a word pyramid, the word can not be more than 3 characters
+1. In order for a word to be considered a word pyramid, the word can not be less than 3 characters
 2. Special Characters and numbers can be apart of a "word"
 3. Case Insentive. "S" == "s" 
 
